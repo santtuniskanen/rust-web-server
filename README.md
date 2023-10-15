@@ -1,2 +1,2 @@
 # Rust-ST-Web-Server
-A single-threaded web server written in Rust
+A single-threaded web server Rust tutorial
