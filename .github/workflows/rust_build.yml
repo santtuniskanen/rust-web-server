@@ -18,5 +18,5 @@ jobs:
     - uses: actions/checkout@v3
     - name: Build
       run: |
-        cd ferrum-flow
+        cd ferrumflow
         cargo build --verbose
