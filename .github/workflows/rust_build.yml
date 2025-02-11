@@ -18,5 +18,5 @@ jobs:
     - uses: actions/checkout@v3
     - name: Build
       run: |
-        cd ferrumflow
+        cd rust-web-server
         cargo build --verbose
